@@ -2,7 +2,7 @@
   "name": "web-dolla",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DavidRoblesAquije.github.io/web-dolla",
+  "homepage": "https://davidroblesaquije.github.io/web-dolla/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
